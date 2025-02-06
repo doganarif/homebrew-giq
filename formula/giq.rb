@@ -1,7 +1,7 @@
 class Giq < Formula
   desc 'Git wrapper enhanced with AI-powered features'
   homepage 'https://github.com/doganarif/giq'
-  version '0.1.3'
+  version '0.1.4'
 
   stable do
     on_macos do
